@@ -1,0 +1,4 @@
+-r requirements-internal-repos.in
+
+django
+requests

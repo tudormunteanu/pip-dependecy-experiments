@@ -1,0 +1,21 @@
+asgiref==3.3.1
+attrs==20.3.0
+certifi==2020.12.5
+chardet==4.0.0
+Django==3.0
+djangorestframework==3.12.2
+-e git+https://github.com/tfranzel/drf-spectacular.git@b282739947d1d9e56a0a57b248e1ebd640f53dce#egg=drf_spectacular
+idna==2.10
+importlib-metadata==3.3.0
+inflection==0.5.1
+jsonschema==3.2.0
+pyrsistent==0.17.3
+pytz==2020.5
+PyYAML==5.3.1
+requests==2.25.1
+six==1.15.0
+sqlparse==0.4.1
+typing-extensions==3.7.4.3
+uritemplate==3.0.1
+urllib3==1.26.2
+zipp==3.4.0
